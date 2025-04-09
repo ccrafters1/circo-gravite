@@ -137,7 +137,7 @@ img {
 /* Hero Section */
 .hero {
     height: 600px;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/imagenes/circo.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('imagenes/circo.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
